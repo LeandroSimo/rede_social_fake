@@ -1,4 +1,4 @@
-# Rede Socil Fake
+# Rede Social Fake
 
 A new Flutter project.
 
