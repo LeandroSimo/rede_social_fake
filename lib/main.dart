@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'ESIG',
       theme: ThemeData(
-        appBarTheme: const AppBarTheme(elevation: 1, color: Colors.redAccent),
-        primarySwatch: Colors.red,
+        appBarTheme:  AppBarTheme(elevation: 1, color: Colors.orange.shade300),
+        primarySwatch: Colors.orange,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: const HomePage(title: 'ESIG'),
