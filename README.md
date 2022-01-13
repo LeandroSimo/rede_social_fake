@@ -1,4 +1,4 @@
-# lista_posts
+# Rede Social Fake
 
 A new Flutter project.
 
